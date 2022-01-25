@@ -75,7 +75,7 @@ namespace BejaiaCovid
 
                 while (true)
                 {
-                    await Task.Delay(300);
+                    await Task.Delay(1500);
                     try
                     {
                         var pendingDirect = await _instaApi.MessagingProcessor
