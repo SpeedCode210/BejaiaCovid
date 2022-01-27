@@ -9,6 +9,17 @@
 
     <ItemGroup>
       <PackageReference Include="InstagramApiSharp" Version="1.7.1" />
+      <PackageReference Include="SixLabors.ImageSharp" Version="1.0.4" />
+      <PackageReference Include="VectSharp.Raster" Version="1.2.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Assets\GowunBatang-Regular.ttf">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="Assets\GowunBatang-Bold.ttf">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
 </Project>

@@ -7,14 +7,15 @@ Compte officiel du bot : https://www.instagram.com/bejaia_covid/
 
 ## Commandes disponibles
 
-| Commande   | Description                                                      |
-|------------|------------------------------------------------------------------|
-| !help      | Affiche la liste des commandes                                   |
-| !summary   | Affiche le bilan global depuis le début de la pandémie           |
-| !day       | Affiche le bilan du jour                                         |
-| !byage     | Affiche les données globale classées par tranche d'âge           |
-| !bejaia    | Affiche le bilan de la wilaya de Béjaïa depuis le début du covid |
-| !bejaiaday | Affiche le bilan du jour pour la wilaya de Béjaïa                |
+| Commande      | Description                                                      |
+|---------------|------------------------------------------------------------------|
+| !help         | Affiche la liste des commandes                                   |
+| !summary      | Affiche le bilan global depuis le début de la pandémie           |
+| !day          | Affiche le bilan du jour                                         |
+| !byage        | Affiche les données globale classées par tranche d'âge           |
+| !bejaia       | Affiche le bilan de la wilaya de Béjaïa depuis le début du covid |
+| !wilaya id    | Affiche le bilan global pour la wilaya choisie                   |
+| !wilayaday id | Affiche le bilan du jour pour la wilaya choisie                  |
 
 ## Dépendances de compilation
 
