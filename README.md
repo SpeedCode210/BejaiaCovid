@@ -3,7 +3,7 @@ Un bot instagram permettant d'accéder aux dernières statistiques du covid-19 d
 
 Pour exécuter une commande, il suffit de l'envoyer en message direct à l'instagram relié au bot.
 
-Compte officiel du bot : https://www.instagram.com/bejaia_covid/
+Compte officiel du bot : https://www.instagram.com/algeria_covid/
 
 ## Commandes disponibles
 
